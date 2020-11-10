@@ -1,0 +1,37 @@
+body 
+{ 
+     font-family: Arial, sans-serif; /* Рубленый шрифт */ 
+}
+.task2 
+{ 
+     color: red; 
+}
+.task3
+{
+	margin-top: 50px;
+}
+.task5
+{
+	color:purple;
+	font-size: 18px;
+}
+.task6
+{
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 18px;
+	color: #FF8C00;
+}
+.taskHeader
+{
+	color: #228B22;
+	font-family: monospace;
+	font-size: 22px;
+}
+.labelClass
+{
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 18px;
+	color: #DAA520;
+}
